@@ -1,7 +1,7 @@
 ---
 name: Plantilla para historias de usuario
 about: Describe this issue template's purpose here.
-title: '"[HU] Título breve"'
+title: '[HU] Título breve'
 labels: ''
 assignees: ''
 
