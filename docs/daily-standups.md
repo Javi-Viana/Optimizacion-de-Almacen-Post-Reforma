@@ -13,28 +13,28 @@
 - Bloqueos: espacio reducido en pasillos durante reposición.
 
 **Día 3 – Miércoles 10/09**  
-- Ayer: se avanzó HU1 (70% lineales repuestos).  
-- Hoy: terminar HU1 y empezar HU2 (clasificación en rodantes).  
-- Bloqueos: falta de rodantes libres.
+- Ayer: se avanzó HU1 (30% lineales repuestos); se realiza la planificación de sobrantes de almacén, se estima los materiales necesarios.  
+- Hoy: continuar HU1 y empezar HU2 (clasificación en cajas de almacenado), solicitar bases rodantes necesarias.  
+- Bloqueos: falta de bases rodantes libres.
 
 **Día 4 – Jueves 11/09**  
-- Ayer: HU1 completada.  
+- Ayer: se avanzó HU1 (60% lineales repuestos), bases solicitadas.  
 - Hoy: HU2 en progreso (cajas estándar con referencias agrupadas).  
-- Bloqueos: material de embalaje limitado.
+- Bloqueos: Numero de cajas limitado.
 
 **Día 5 – Viernes 12/09**  
-- Ayer: HU2 completada parcialmente (50%).  
+- Ayer: se avanzó HU1 (75% lineales repuestos), HU2 completada parcialmente (50%).  
 - Hoy: continuar HU2 y arrancar HU3 (inventario de sobrantes y huecos).  
 - Bloqueos: tiempo ajustado por volumen de ventas.
 
 **Día 6 – Sábado 13/09**  
-- Ayer: HU2 finalizada. HU3 iniciado.  
-- Hoy: terminar HU3.  
+- Ayer: HU3 iniciado referencias críticas, llegaron las bases rodantes y cajas solicitadas.  
+- Hoy: en pausa (sábado = foco en ventas).  
 - Bloqueos: ninguno.
 
 **Día 7 – Domingo 14/09 (Tienda cerrada)**  
-- Ayer: HU3 completado.  
-- Hoy: día intensivo a tienda cerrada → sacar sobrantes, reorganizar almacén.  
+- Ayer: Venta.  
+- Hoy: Terminar HU1 (sacar todos los sobrantes), Terminar HU2 (reorganizar almacén), Terminar HU3.  
 - Bloqueos: ninguno.
 
 ---
