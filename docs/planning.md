@@ -1,9 +1,16 @@
-Sprint: Sprint 1 (2025-09-08 → 2025-09-14)
+# Acta: Sprint Planning - Sprint 1
 
-Objetivo: “Estabilizar el almacén: reposición, agrupación de referencias e inventario inicial.”
+**Sprint:** Sprint 1 (08/09/2025 → 14/09/2025)  
+**Objetivo del sprint:** Estabilizar el almacén: reposición, agrupación de referencias e inventario inicial.
 
-Historias: HU1 (8), HU2 (5), HU3 (3)
+## Historias seleccionadas
+- HU1 – Reposición a tienda (8 pts) – Assignee: @javi-viana (en sustitución de equipo de reposición)
+- HU2 – Estandarización cajas/bases rodantes (5 pts) – Assignee: @javi-viana (en sustitución de encargado de almacén)  
+- HU3 – Inventario sobrantes/huecos (3 pts) – Assignee: @javi-viana (como jefe de tienda)
 
-Capacidad: 16 pts
+## Capacidad total:
+- Puntos disponibles: 16 (recommended 15–18)
 
-Riesgos: falta de manos, tiempo limitado.
+## Riesgos / Notas:
+- Falta de manos en un día concreto → rotar turnos.  
+- Material para etiquetado (resolver en Product Backlog si hace falta).
