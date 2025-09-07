@@ -1,43 +1,66 @@
-# 🚀 Proyecto Scrum: Simulación de Optimización de Almacén
+# 🚀 Proyecto Scrum: Optimización de Almacén Post-Reforma
 
-Este repositorio documenta el proyecto de simulación "Optimización de Almacén Post-Reforma", un caso de estudio práctico sobre cómo aplicar la **metodología ágil Scrum** para resolver un desafío logístico real en el sector retail.
+Este repositorio recoge una simulación práctica de cómo aplicar la **metodología ágil Scrum** para resolver un problema logístico realista en un supermercado tras una reforma de tienda.  
 
-El objetivo de este proyecto es demostrar mi capacidad para analizar problemas complejos, diseñar planes de acción estratégicos, gestionar tareas en un entorno visual (Kanban) y liderar la consecución de objetivos medibles.
+El proyecto forma parte de mi porfolio profesional y tiene como objetivo demostrar mi capacidad para **gestionar equipos**, **planificar iteraciones de trabajo** y **usar herramientas digitales (GitHub Projects, Kanban, Sprints, Burndown)** para dar respuesta a un reto operativo.
 
-**[Ver el Tablero del Proyecto en GitHub Projects →](https://github.com/users/Javi-Viana/projects/2)**
-
----
-
-## 🎯 Objetivos del Proyecto
-
-El proyecto se diseñó para alcanzar tres metas claras y medibles (SMART):
-
-1.  **Analizar y Diagnosticar:** Realizar un análisis completo del nuevo espacio de almacén y de los flujos de mercancía para identificar los principales cuellos de botella e ineficiencias.
-2.  **Diseñar e Implementar:** Desarrollar e implementar un nuevo sistema de gestión de stock y reposición, utilizando los recursos disponibles y un tablero Kanban para visualizar el flujo de tareas.
-3.  **Medir y Mejorar:** Reducir las roturas de stock visuales en un 50% (del 15% a menos del 8%) en un plazo de 4 semanas (dos Sprints de 2 semanas) y disminuir el tiempo de reposición del equipo.
-
-## 🛠️ Metodología y Documentación
-
-Para la gestión de este proyecto se utilizó un marco de trabajo **Scrum**, planificando el trabajo en dos **Sprints** de dos semanas cada uno. El seguimiento de las tareas se realizó a través de un tablero **Kanban** en GitHub Projects.
-
-A continuación, se puede acceder a la documentación detallada que simula los principales eventos y artefactos del proceso Scrum:
-
-* **[📄 Sprint Planning](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/sprint%20planning.md):** Documentación de la reunión de planificación del Sprint.
-* **[🔄 Backlog Refinement](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/backlog-refinement.md):** Notas sobre el proceso de refinamiento del backlog.
-* **[🗣️ Daily Standups](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/daily-standups.md):** Simulación de las reuniones diarias de seguimiento.
-* **[📊 Burndown Chart](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/burndown.md):** Gráfico de seguimiento del progreso del Sprint.
-* **[✅ Sprint Reviews](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/reviews.md):** Acta de la reunión de revisión al final del Sprint.
-* **[🤔 Sprint Retrospectives](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/retros.md):** Conclusiones de la retrospectiva para la mejora continua.
-
-
-## 📈 Resultados Clave (Simulados)
-
-La aplicación de esta metodología permitió alcanzar los siguientes resultados al finalizar el proyecto:
-
--   ✅ **Reducción de Roturas de Stock:** Se logró una disminución de las roturas visuales hasta el 6%, superando el objetivo inicial.
--   ⏱️ **Optimización del Tiempo:** El tiempo necesario para la reposición de mercancía se redujo, mejorando la productividad del equipo.
--   🤝 **Mejora del Clima Laboral:** El nuevo sistema, diseñado con la participación del equipo, redujo el estrés y aumentó la satisfacción y el compromiso de los colaboradores.
+👉 **[Accede al tablero en GitHub Projects](https://github.com/users/Javi-Viana/projects/2)**
 
 ---
 
-Este proyecto es una demostración de mi enfoque práctico y estructurado para la gestión. Para conocer más sobre mi perfil y otros logros, te invito a visitar mi **[Porfolio Profesional en Notion](https://lively-society-19b.notion.site/Porfolio-Profesional-Javier-Viana-25ff562283368087b5e3f68bf042e1b3)**.
+## Contexto del proyecto
+
+Tras la reforma de la tienda, el nuevo diseño del almacén y los cambios en los lineales generaron varios problemas operativos:
+- La nueva disposición de las puertas eliminó la zona libre que antes servía como espacio de almacenaje sin tránsito, complicando el flujo de mercancía.
+- La eliminación de la balda superior en los lineales obligó a trasladar todos los sobrantes al almacén, aumentando su presión.
+- El sistema corporativo de almacenamiento en palets con cajas de cartón ocupaba demasiado espacio y bloqueaba accesos, dificultando la reposición y la recepción de mercancía.
+- La reapertura provocó un incremento puntual de pedidos y ventas durante los primeros 10 días, saturando el espacio disponible.
+- Los sobrantes de la misma referencia quedaban dispersos en distintas ubicaciones, lo que ralentizaba inventarios y reposición.
+
+Frente a este escenario, se diseñó un proyecto ágil para estabilizar el almacén en ciclos cortos de mejora (sprints).
+
+---
+
+## Objetivos
+
+1. **Recuperar la operativa del almacén** tras la reforma, reorganizando el espacio y la reposición.  
+2. **Implementar un sistema visual de gestión de tareas** mediante un tablero Kanban en GitHub Projects.  
+3. **Simular un ciclo Scrum completo** (planning, daily, review, retrospective) para mostrar cómo la metodología puede aplicarse en el retail.  
+
+---
+
+## Metodología
+
+El proyecto se gestionó con un marco **Scrum adaptado a un supermercado**, trabajando en **sprints semanales** (alineados con los ciclos de ofertas).  
+
+Se documentaron los principales eventos y artefactos:  
+
+- [Sprint Planning](docs/planning-sprint1.md)  
+- [Backlog Refinement](docs/backlog-refinement.md)  
+- [Daily Standups](docs/daily-standups.md)  
+- [Burndown Charts](docs/burndown.md)  
+- [Sprint Reviews](docs/reviews.md)  
+- [Sprint Retrospectives](docs/retros.md)  
+
+---
+
+## Resultados (simulación)
+
+- El equipo completó todas las historias comprometidas en el Sprint 1.  
+- En el Sprint 2 se alcanzó un 80% de la capacidad prevista, quedando una historia trasladada al siguiente ciclo.  
+- Se logró una **mayor claridad en la reposición**, con inventarios y flujos de mercancía más organizados.  
+
+---
+
+## Sobre este proyecto
+
+Este ejercicio no pretende reproducir métricas exactas, sino mostrar cómo un reto operativo realista puede gestionarse con **Scrum aplicado a retail**.  
+
+El proyecto refuerza mis competencias como:  
+- Gestor de equipos en tienda.  
+- Product Owner en entornos simulados.  
+- Usuario de herramientas ágiles (GitHub Projects, Kanban, Sprints).  
+
+---
+
+🔗 Para más información sobre mi trayectoria, puedes visitar mi **[Porfolio en Notion](https://lively-society-19b.notion.site/Porfolio-Profesional-Javier-Viana-25ff562283368087b5e3f68bf042e1b3)**.  
