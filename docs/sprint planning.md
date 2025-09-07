@@ -12,8 +12,10 @@
 - Puntos disponibles: 16 (recommended 15–18)
 
 ## Riesgos / Notas:
-- Falta de manos en un día concreto → rotar turnos.  
-- Material para etiquetado (resolver en Product Backlog si hace falta).
+- El almacén se encuentra colapsado con un sistema de almacenaje de sobrantes que bloquea la circulación eficaz de mercancía.
+- El flujo de mercancía no es eficiente. Se encuentran sobras del mismo producto en diferentes ubicaciones impidiendo la efectividad de la realización de inventarios.
+- Sábado de alta demanda: recursos priorizados a atención al cliente.
+- Material auxiliar (cajas y bases rodantes) limitado; puede requerir ajuste en backlog.
 
 # Acta: Sprint Planning - Sprint 2
 
