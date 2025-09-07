@@ -16,14 +16,19 @@ El proyecto se diseñó para alcanzar tres metas claras y medibles (SMART):
 2.  **Diseñar e Implementar:** Desarrollar e implementar un nuevo sistema de gestión de stock y reposición, utilizando los recursos disponibles y un tablero Kanban para visualizar el flujo de tareas.
 3.  **Medir y Mejorar:** Reducir las roturas de stock visuales en un 50% (del 15% a menos del 8%) en un plazo de 4 semanas (dos Sprints de 2 semanas) y disminuir el tiempo de reposición del equipo.
 
-## 🛠️ Metodología Utilizada
+## 🛠️ Metodología y Documentación
 
-Para la gestión de este proyecto se utilizó un marco de trabajo **Scrum**, planificando el trabajo en dos **Sprints** de dos semanas cada uno. El seguimiento de las tareas se realizó a través de un tablero **Kanban** en GitHub Projects, organizando el flujo de trabajo en las siguientes fases:
+Para la gestión de este proyecto se utilizó un marco de trabajo **Scrum**, planificando el trabajo en dos **Sprints** de dos semanas cada uno. El seguimiento de las tareas se realizó a través de un tablero **Kanban** en GitHub Projects.
 
--   **Product Backlog:** Lista de todas las necesidades y tareas del proyecto.
--   **Sprint Backlog (To Do):** Tareas priorizadas para ser ejecutadas en el sprint actual.
--   **In Progress:** Tareas en ejecución.
--   **Done:** Tareas completadas y validadas.
+A continuación, se puede acceder a la documentación detallada que simula los principales eventos y artefactos del proceso Scrum:
+
+* **[📄 Sprint Planning](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/sprint%20planning.md):** Documentación de la reunión de planificación del Sprint.
+* **[🔄 Backlog Refinement](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/backlog-refinement.md):** Notas sobre el proceso de refinamiento del backlog.
+* **[🗣️ Daily Standups](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/daily-standups.md):** Simulación de las reuniones diarias de seguimiento.
+* **[📊 Burndown Chart](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/burndown.md):** Gráfico de seguimiento del progreso del Sprint.
+* **[✅ Sprint Reviews](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/reviews.md):** Acta de la reunión de revisión al final del Sprint.
+* **[🤔 Sprint Retrospectives](https://github.com/Javi-Viana/Optimizacion-de-Almacen-Post-Reforma/blob/main/docs/retros.md):** Conclusiones de la retrospectiva para la mejora continua.
+
 
 ## 📈 Resultados Clave (Simulados)
 
