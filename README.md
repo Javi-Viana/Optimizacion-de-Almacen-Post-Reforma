@@ -1,49 +1,38 @@
-# Optimización de Almacén Post-Reforma
+# 🚀 Proyecto Scrum: Simulación de Optimización de Almacén
 
-Proyecto Scrum aplicado a la reorganización de un almacén de supermercado tras una reforma.
+Este repositorio documenta el proyecto de simulación "Optimización de Almacén Post-Reforma", un caso de estudio práctico sobre cómo aplicar la **metodología ágil Scrum** para resolver un desafío logístico real en el sector retail.
 
-**Autor:** Javier Viana — Rol: Jefe de tienda / Product Owner
+El objetivo de este proyecto es demostrar mi capacidad para analizar problemas complejos, diseñar planes de acción estratégicos, gestionar tareas en un entorno visual (Kanban) y liderar la consecución de objetivos medibles.
 
-## Objetivo
-Estabilizar la operativa del almacén, agrupar referencias, ajustar pedidos automáticos y normalizar la reposición.
+**[Ver el Tablero del Proyecto en GitHub Projects →](https://github.com/users/Javi-Viana/projects/2)**
 
-## Estructura
-- **Issues**: 12 Historias de Usuario (HU1…HU12) + Deuda Técnica (DT1)  
-- **Project board**: Kanban con columnas (Icebox, Product Backlog, Sprint Backlog, En Progreso, Revisión, Hecho)  
-- **Sprints**: Semanales (Lunes → Domingo)
-- **Campos personalizados**: Story points (número), Prioridad (alta/media/baja)  
-- **Documentación (/docs/)**:  
-  - `planning-sprint.md` → Planificación de sprints  
-  - `daily-standups.md` → Actas de dailies por sprint  
-  - `reviews.md` → Sprint reviews  
-  - `retros.md` → Retrospectivas  
-  - `backlog-refinement.md` → Sesiones de refinamiento  
-  - `burndown.md` → Seguimiento de puntos restantes y gráfico de quema  
+---
 
-## Sprints
+## 🎯 Objetivos del Proyecto
 
-### Sprint 1 (08/09/2025 → 14/09/2025)
-- **Objetivo:** Estabilizar el almacén tras la reapertura.  
-- **Historias comprometidas:**  
-  - HU1 – Reposición a tienda (8 pts)   
-  - HU2 – Estandarización de cajas y rodantes (5 pts)  
-  - HU3 – Inventario de sobrantes y huecos (3 pts)  
-- **Capacidad:** 16 pts (dentro del rango de 15–18 pts).  
+El proyecto se diseñó para alcanzar tres metas claras y medibles (SMART):
 
+1.  **Analizar y Diagnosticar:** Realizar un análisis completo del nuevo espacio de almacén y de los flujos de mercancía para identificar los principales cuellos de botella e ineficiencias.
+2.  **Diseñar e Implementar:** Desarrollar e implementar un nuevo sistema de gestión de stock y reposición, utilizando los recursos disponibles y un tablero Kanban para visualizar el flujo de tareas.
+3.  **Medir y Mejorar:** Reducir las roturas de stock visuales en un 50% (del 15% a menos del 8%) en un plazo de 4 semanas (dos Sprints de 2 semanas) y disminuir el tiempo de reposición del equipo.
 
-### Sprint 2 (15/09/2025 → 21/09/2025)
-- **Objetivo:** Mejorar pedidos automáticos y organización del almacén.  
-- **Historias comprometidas:**  
-  - HU4 – Ajuste del pedido automático (5 pts)  
-  - HU6 – Señalización de zonas de almacén (3 pts)  
-  - HU7 – Plan de roles y turnos (3 pts)  
-  - HU8 – Reunión diaria de coordinación (2 pts)  
-  - HU9 – Procedimiento de formación rápida (3 pts)  
-- **Capacidad:** 16 pts (dentro del rango de 15–18 pts).  
+## 🛠️ Metodología Utilizada
 
-## Cómo ver el proyecto
-- Project board: (Enlace al Project)  
-- Issues: (Enlace a Issues)  
-- Docs: /docs/
+Para la gestión de este proyecto se utilizó un marco de trabajo **Scrum**, planificando el trabajo en dos **Sprints** de dos semanas cada uno. El seguimiento de las tareas se realizó a través de un tablero **Kanban** en GitHub Projects, organizando el flujo de trabajo en las siguientes fases:
 
-> Nota: Proyecto de ejemplo/porfolio — no contiene datos reales.
+-   **Product Backlog:** Lista de todas las necesidades y tareas del proyecto.
+-   **Sprint Backlog (To Do):** Tareas priorizadas para ser ejecutadas en el sprint actual.
+-   **In Progress:** Tareas en ejecución.
+-   **Done:** Tareas completadas y validadas.
+
+## 📈 Resultados Clave (Simulados)
+
+La aplicación de esta metodología permitió alcanzar los siguientes resultados al finalizar el proyecto:
+
+-   ✅ **Reducción de Roturas de Stock:** Se logró una disminución de las roturas visuales hasta el 6%, superando el objetivo inicial.
+-   ⏱️ **Optimización del Tiempo:** El tiempo necesario para la reposición de mercancía se redujo, mejorando la productividad del equipo.
+-   🤝 **Mejora del Clima Laboral:** El nuevo sistema, diseñado con la participación del equipo, redujo el estrés y aumentó la satisfacción y el compromiso de los colaboradores.
+
+---
+
+Este proyecto es una demostración de mi enfoque práctico y estructurado para la gestión. Para conocer más sobre mi perfil y otros logros, te invito a visitar mi **[Porfolio Profesional en Notion](https://lively-society-19b.notion.site/Porfolio-Profesional-Javier-Viana-25ff562283368087b5e3f68bf042e1b3)**.
