@@ -18,7 +18,9 @@ Este documento refleja la evolución diaria de los puntos de historia completado
 | 2025-09-13  | 16               | Día de venta, sin avances |
 | 2025-09-14  | 0                | HU1, HU2 y HU3 completadas a tienda cerrada |
 
+
 ✅ **Resultado:** Sprint completado al 100% (16/16 pts).  
+<img width="1600" height="1000" alt="burndown_sprint1" src="https://github.com/user-attachments/assets/8a50941c-94d6-421d-92ba-86616e0ad267" />
 
 ---
 
@@ -37,6 +39,7 @@ Este documento refleja la evolución diaria de los puntos de historia completado
 | 2025-09-21  | 3                | Domingo (no se trabaja), HU9 pendiente |
 
 ✅ **Resultado:** 13/16 pts completados → **HU9 queda para Sprint 3**.  
+<img width="1600" height="1000" alt="burndown_sprint2" src="https://github.com/user-attachments/assets/d673483b-051a-4988-821f-8737488d5dcb" />
 
 ---
 
