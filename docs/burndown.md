@@ -43,7 +43,7 @@ Las tres HU se completaron juntas al final, lo que produjo una caída vertical d
 <img width="1600" height="1000" alt="burndown_sprint2" src="https://github.com/user-attachments/assets/d673483b-051a-4988-821f-8737488d5dcb" />
 La carga se redujo en dos bloques claros: primero con la finalización de HU4 (5 pts), luego con HU6, HU7 y HU8 (8 pts). HU9 quedó incompleta.
 
-**Resultado:** 13/16 pts completados → **HU9 queda para Sprint 3**.
+**Resultado:** 13/16 pts completados → HU9 queda para Sprint 3.
 
 ---
 Los gráficos correspondientes se encuentran en `/images/burndown_sprint1.png` y `/images/burndown_sprint2.png`.  
