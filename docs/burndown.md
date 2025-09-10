@@ -21,6 +21,7 @@ Este documento refleja la evolución diaria de los puntos de historia completado
 
 <img width="1600" height="1000" alt="burndown_sprint1" src="https://github.com/user-attachments/assets/8a50941c-94d6-421d-92ba-86616e0ad267" />
 Las tres HU se completaron juntas al final, lo que produjo una caída vertical de 16 puntos el último día.
+
 **Resultado:** Sprint completado al 100% (16/16 pts).  
 
 ---
@@ -41,6 +42,7 @@ Las tres HU se completaron juntas al final, lo que produjo una caída vertical d
   
 <img width="1600" height="1000" alt="burndown_sprint2" src="https://github.com/user-attachments/assets/d673483b-051a-4988-821f-8737488d5dcb" />
 La carga se redujo en dos bloques claros: primero con la finalización de HU4 (5 pts), luego con HU6, HU7 y HU8 (8 pts). HU9 quedó incompleta.
+
 **Resultado:** 13/16 pts completados → **HU9 queda para Sprint 3**.
 
 ---
