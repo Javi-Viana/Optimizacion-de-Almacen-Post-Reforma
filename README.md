@@ -35,7 +35,7 @@ El proyecto se gestionó con un marco **Scrum adaptado a un supermercado**, trab
 
 Se documentaron los principales eventos y artefactos:  
 
-- [Sprint Planning](docs/sprint planning.md)  
+- [Sprint Planning](docs/sprint-planning.md)  
 - [Backlog Refinement](docs/backlog-refinement.md)  
 - [Daily Standups](docs/daily-standups.md)  
 - [Burndown Charts](docs/burndown.md)  
