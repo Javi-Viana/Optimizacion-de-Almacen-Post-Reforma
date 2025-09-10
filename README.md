@@ -1,4 +1,4 @@
-# 🚀 Proyecto Scrum: Optimización de Almacén Post-Reforma
+# Proyecto Scrum: Optimización de Almacén Post-Reforma
 
 Este repositorio recoge una simulación práctica de cómo aplicar la **metodología ágil Scrum** para resolver un problema logístico realista en un supermercado tras una reforma de tienda.  
 
