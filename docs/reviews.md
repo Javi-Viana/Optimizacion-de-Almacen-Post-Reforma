@@ -28,7 +28,7 @@
 - HU8 – Reunión diaria (2 pts) ✅  
 
 **Historias no completadas:**  
-- HU9 – Formación rápida (3 pts) ⏳ (queda para Sprint 3).  
+- HU9 – Formación rápida (3 pts) (queda para Sprint 3).  
 
 **Demostración:**  
 - Pedido automático ajustado en sistema.  
